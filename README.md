@@ -1,4 +1,10 @@
-### <h1>[Escuela Enciende Una Luz](https://escuela-enciende-una-luz.bss.design/)</h1>
+### <h1>Escuela Enciende Una Luz</h1>
+
+
+## [Enlace a la pagina: ](https://escuela-enciende-una-luz.bss.design/)
+
+## [Desarrollado por: ](https://github.com/isinicolle)
+
 
 Elaborado con: 
 
