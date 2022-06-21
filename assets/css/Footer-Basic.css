@@ -238,3 +238,9 @@ div {
   }
 }
 
+@media (max-width: 400px) {
+  #containicio {
+    width: 227px;
+  }
+}
+
