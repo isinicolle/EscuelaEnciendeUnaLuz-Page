@@ -264,3 +264,13 @@ div {
   height: 0;
 }
 
+#rowfooter {
+  height: 100%;
+  width: 100%;
+}
+
+#col-footer {
+  width: 100%;
+  height: 100%;
+}
+
