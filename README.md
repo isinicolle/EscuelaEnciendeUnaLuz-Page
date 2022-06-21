@@ -1,4 +1,10 @@
-### <h1>[Escuela Enciende Una Luz](https://escuela-enciende-una-luz.bss.design/)</h1>
+### <h1>Escuela Enciende Una Luz</h1>
+
+
+## [Enlace a la pagina: click aqui](https://escuela-enciende-una-luz.bss.design/)
+
+## [Desarrollado por: click aqui](https://github.com/isinicolle)
+
 
 Elaborado con: 
 
@@ -7,6 +13,8 @@ Elaborado con:
 -CSS
 
 -BOOSTRAP
+
+-JavaScript
 
 Imagenes editadas en:
 
