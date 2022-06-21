@@ -279,3 +279,8 @@ div {
   height: 100%;
 }
 
+#informacion_desarrollador :hover {
+  color: #5383d3;
+  cursor: alias;
+}
+
