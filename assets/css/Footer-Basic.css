@@ -257,3 +257,10 @@ div {
   }
 }
 
+#videoresponsive {
+  overflow: hidden;
+  padding-bottom: 10%;
+  position: relative;
+  height: 0;
+}
+
