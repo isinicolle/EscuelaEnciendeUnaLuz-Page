@@ -14,6 +14,8 @@ Elaborado con:
 
 -BOOSTRAP
 
+-JavaScript
+
 Imagenes editadas en:
 
 -CANVA
