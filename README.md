@@ -4,7 +4,7 @@
 
 ## [▶Ver el resultado final dando click aqui◀](https://escuela-enciende-una-luz.bss.design/)
 
-## <span align="center">Desarrollado por: </span>
+## <span align="center">Desarrollado por: [isinicolle](https://github.com/isinicolle)</span>
 
 
 ## HERRAMIENTAS: : 
@@ -13,7 +13,7 @@
 
 ✅CSS
 
-✅BOOSTRAP
+✅Boostrap
 
 ✅JavaScript
 
