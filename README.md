@@ -1,21 +1,22 @@
-### <h1>Escuela Enciende Una Luz</h1>
+<h1 align="center">Escuela Enciende Una Luz</h1>
 
+<div align="center"><p><a href="https://escuela-enciende-una-luz.bss.design/"><img src="./assets/img/LOGOENCIENDEUNALUZ.svg" height="120" width="auto" alt="Pagina Escuela Enciende Una Luz"></a></p></div>
 
-## [Enlace a la pagina: click aqui](https://escuela-enciende-una-luz.bss.design/)
+## [Ver el resultado final dando click aqui](https://escuela-enciende-una-luz.bss.design/)
 
-## [Desarrollado por: click aqui](https://github.com/isinicolle)
+## <span align="center">Desarrollado por: </span>
 
 
 Elaborado con: 
 
--HTML
+✅HTML
 
--CSS
+✅CSS
 
--BOOSTRAP
+✅BOOSTRAP
 
--JavaScript
+✅JavaScript
 
 Imagenes editadas en:
 
--CANVA
+✅CANVA
